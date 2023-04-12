@@ -1,2 +1,1 @@
-# JRRlab
-关于尝试一下的创建
+About the feature matrix after processing the "Prediction of cell-type-specific cohesin-mediated chromatin loops based on chromatin states" article.
